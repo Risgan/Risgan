@@ -3,7 +3,7 @@
 
 
 
-# **<div align="center">Hello, my name ir John Rueda.</div>**  
+# **<div align="center">Hello, my name is John Rueda.</div>**  
   
 
 
